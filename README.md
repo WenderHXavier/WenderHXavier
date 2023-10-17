@@ -6,12 +6,12 @@ Estou em transição de carreira, procuro uma oportunidade de estágio, Trainee 
 
 ##Me encontre no [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=<estilo>&logo=linkedin&link=<seu_perfil_no_LinkedIn>)](https://www.linkedin.com/in/wenderhenriquexavier)
 
-<i class="fab fa-python"></i> Python
-<i class="fab fa-js"></i> JavaScript
-<i class="fab fa-html5"></i> HTML
-<i class="fab fa-css3"></i> CSS
-<i class="fab fa-google"></i> Google Sheets
-<i class="fas fa-database"></i> SQL
+<i class="fab fa-python"></i> 
+<i class="fab fa-js"></i> 
+<i class="fab fa-html5"></i> 
+<i class="fab fa-css3"></i> 
+<i class="fab fa-google"></i> 
+<i class="fas fa-database"></i> 
 <link
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css"
