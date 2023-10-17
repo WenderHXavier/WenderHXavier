@@ -4,9 +4,9 @@
 Sou um estudante de Análise e Desenvolvimento de Sistemas na UniFecaf. Sou apaixonado por programação e tecnologia e estou constantemente aprendendo e desenvolvendo minhas habilidades.
 Estou em transição de carreira, procuro uma oportunidade de estágio, Trainee ou Jr.
 
-#### Me encontre no [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=<estilo>&logo=linkedin&link=<seu_perfil_no_LinkedIn>)](https://www.linkedin.com/in/wenderhenriquexavier)
+### Me encontre no [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=<estilo>&logo=linkedin&link=<seu_perfil_no_LinkedIn>)](https://www.linkedin.com/in/wenderhenriquexavier)
 
-#### Techs que venho estudando ou já tive contato:
+### Techs que venho estudando ou já tive contato:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
