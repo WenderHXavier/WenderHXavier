@@ -6,6 +6,9 @@ Estou em transição de carreira, procuro uma oportunidade de estágio, Trainee 
 
 ##Me encontre no [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=<estilo>&logo=linkedin&link=<seu_perfil_no_LinkedIn>)](https://www.linkedin.com/in/wenderhenriquexavier)
 
+https://img.shields.io/pypi/pyversions/:packageName
+
+
 
 <!---
 WenderHXavier/WenderHXavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
