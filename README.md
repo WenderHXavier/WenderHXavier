@@ -6,6 +6,9 @@ Estou em transição de carreira, procuro uma oportunidade de estágio, Trainee 
 
 ##Me encontre no [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=<estilo>&logo=linkedin&link=<seu_perfil_no_LinkedIn>)](https://www.linkedin.com/in/wenderhenriquexavier)
 
+Techs que venho estudando:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
 
 
