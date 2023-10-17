@@ -5,6 +5,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na UniFecaf. Sou apai
 Estou em transição de carreira, procuro uma oportunidade de estágio, Trainee ou Jr.
 
 ##Me encontre no [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=<estilo>&logo=linkedin&link=<seu_perfil_no_LinkedIn>)](https://www.linkedin.com/in/wenderhenriquexavier)
+
 <i class="fab fa-python"></i> Python
 <i class="fab fa-js"></i> JavaScript
 <i class="fab fa-html5"></i> HTML
