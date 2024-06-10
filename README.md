@@ -4,12 +4,8 @@
 Sou um estudante de Análise e Desenvolvimento de Sistemas na UniFecaf. Sou apaixonado por programação e tecnologia e estou constantemente aprendendo e desenvolvendo minhas habilidades.
 
 
-### Me encontre no <a href="https://www.linkedin.com/in/wenderhenriquexavier">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-</a>
-<!---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=<estilo>&logo=linkedin&link=<seu_perfil_no_LinkedIn>)](https://www.linkedin.com/in/wenderhenriquexavier)
---->
+### Me encontre no [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=<estilo>&logo=linkedin&link=<seu_perfil_no_LinkedIn>)](https://www.linkedin.com/in/wenderhenriquexavier)
+
 
 ### Techs que venho estudando ou já tive contato:
 
