@@ -5,7 +5,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na UniFecaf. Sou apai
 
 
 ### Me encontre no <a href="https://www.linkedin.com/in/wenderhenriquexavier">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
 </a>
 <!---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=<estilo>&logo=linkedin&link=<seu_perfil_no_LinkedIn>)](https://www.linkedin.com/in/wenderhenriquexavier)
